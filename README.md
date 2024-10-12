@@ -55,3 +55,13 @@ This repository contains a simple bash script to clear the contents of a log fil
 You can verify that the cron job is set up correctly by listing all cron jobs:
 ```bash
 crontab -l
+```
+
+### 4. Test the Script
+To test that the script works as expected, you can manually run it:
+    ```bash
+    /home/ubuntu/clear_logs.sh
+    ```
+
+    
+
